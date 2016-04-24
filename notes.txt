@@ -1,0 +1,7 @@
+Carousel/Gallery options:
+
+--"Carousel with Gallery Thumbs"
+Bootstrap 3.2.0 Snippet by LabWorkz
+http://bootsnipp.com/snippets/featured/carousel-with-gallery-thumbs
+
+--

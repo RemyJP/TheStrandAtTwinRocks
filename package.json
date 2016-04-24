@@ -1,0 +1,13 @@
+{
+  "version": "0.0.0",
+  "description": "Test Site for building the The Strand website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremy Jones",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
